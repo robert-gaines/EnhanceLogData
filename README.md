@@ -19,4 +19,4 @@ Setup and Configuration:
 7) The "CreateAndPopulateGeoIPDB.py" script will return an 'ip_geodata.db' file, move this database to the same directory as the ProduceReport.py script
 8) Embed the subject log file in the same directory as the ProduceReport.py script
 9) Run ProduceReport.py and specify the log file when prompted. 
-10)Retrieve or examine the report file in .xlsx format
+10) Retrieve or examine the report file in .xlsx format
